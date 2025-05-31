@@ -43,9 +43,10 @@ El script recolecta la siguiente información del sistema:
 ## 🚀 Uso
 
 1. Copia el archivo `GatherInfo.py` a tu Rubber Ducky
-2. Conecta el Rubber Ducky al sistema objetivo
-3. El script se ejecutará automáticamente
-4. La información recolectada se guardará en `D:\system_info.txt`
+2. Renombralo a "code.py"
+3. Conecta el Rubber Ducky al sistema objetivo
+4. El script se ejecutará automáticamente
+5. La información recolectada se guardará en `D:\system_info.txt`
 
 ## ⚙️ Funcionamiento
 
